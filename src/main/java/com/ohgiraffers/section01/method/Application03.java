@@ -46,6 +46,8 @@ public class Application03 {
     }
 
     public void testMethod(int age){
+
         System.out.println("당신의 나이는: " +age+ "세 입니다. ");
+
     }
 }
